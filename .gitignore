@@ -84,6 +84,9 @@ celerybeat.pid
 # dotenv
 .env
 
+# Postman requests
+postman_request.txt
+
 # Virtualenv
 #venv/
 #ENV/
@@ -92,8 +95,7 @@ celerybeat.pid
 data/uploads/
 data/index/
 
-postman_request.txt
-
 # IDE
 .vscode/
 .idea/
+

@@ -1,9 +1,0 @@
-curl --location 'http://127.0.0.1:8000/health'
-
-curl --location 'http://127.0.0.1:8000/upload' \
---form 'file=@"/C:/Users/Tkhus/Desktop/test_py/THE AETHERIA PROTOCOL.pdf"'
-
-curl --location 'http://127.0.0.1:8000/chat' \
---header 'accept: application/json' \
---header 'Content-Type: application/json' \
---data '{"question":"What is The Aftheria Protocol about?"}'
