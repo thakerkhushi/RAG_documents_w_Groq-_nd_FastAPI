@@ -91,7 +91,9 @@ celerybeat.pid
 # data directories
 data/uploads/
 data/index/
+
 postman_request.txt
+
 # IDE
 .vscode/
 .idea/
